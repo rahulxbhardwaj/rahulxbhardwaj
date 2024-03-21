@@ -24,7 +24,8 @@ Please CheckOut my Repo for Better Findings
 
 ## Get in Touch
 
-- Email: [Rahul Bhardwaj](rahulbhardwaj987@outlook.com)
+- Email: [rahulbhardwaj987@outlook.com](mailto:rahulbhardwaj987@outlook.com)
+
 
 
 ## Open for Collaboration
